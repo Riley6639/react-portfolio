@@ -1,8 +1,9 @@
 // a functino to return the resume page
+import '../CSS/resume.css';
 
 export default function Resume() {
     return (
-        <div className="container my-5">
+        <div className="container my-5 resume">
             <h1 className="text-center mb-4">My Resume</h1>
 
             {/* Introduction */}

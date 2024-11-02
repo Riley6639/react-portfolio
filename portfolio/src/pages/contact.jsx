@@ -1,12 +1,13 @@
 // a function to return the contact page
+import '../CSS/contact.css';
 
 export default function Contact() {
     return (
-        <div className="container text-center my-5">
+        <div className="container text-center my-5 contact">
             <h1 className="mb-4">
                 Contact form
             </h1>
-            <form className="mx-auto" style={{ macWidth: '500px' }}>
+            <form className="mx-auto" style={{ maxWidth: '500px' }}>
                 <div className="mb-3">
                     <input
                         type="text"
