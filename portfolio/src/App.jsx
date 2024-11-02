@@ -1,17 +1,14 @@
-import { useState } from 'react'
+import { Outlet } from 'react-router-dom'
 import Header from './components/header'
 import Footer from './components/footer'
-import Nav from './components/navigation'
-import Project from './components/projects'
 import './App.css'
 
 function App() {
-  retrun(
+  return(
     <div>
       <Header />
-      <Nav />
       <main>
-        <Project />
+        <Outlet />
       </main>
       <Footer />
     </div>
