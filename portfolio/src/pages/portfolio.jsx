@@ -27,6 +27,14 @@ export default function Portfolio() {
             link: 'https://riley6639.github.io/Prework-study-guide/',
             imageSource: 'https://unsplash.com/photos/5M4v6fR3X4M?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash',
             gitHub: 'https://github.com/Riley6639/Prework-study-guide'
+        },
+        {
+            name: 'Bucket List',
+            description: 'a bucket list application that allows users to add, delete, and mark items as completed',
+            image: '../../images/bucket-list.jpg',
+            link: 'https://boisterous-panda-344a2c.netlify.app/',
+            imageSource: 'https://unsplash.com/photos/5M4v6fR3X4M?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash',
+            gitHub: 'https://github.com/Riley6639/week-12-miniproject'
         }
     ]
 
