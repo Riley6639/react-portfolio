@@ -1,0 +1,28 @@
+.contact {
+    background-color: rgb(195, 211, 211);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center the form vertically */
+    align-items: center;
+    height: 70vh; /* Keeps the section height */
+    margin-top: 80px; /* Space below fixed header */
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch; /* Allows child elements to stretch */
+    width: 100%; /* Use full width of the container */
+    max-width: 500px; /* Restrict maximum width */
+    margin-left: 0; /* Remove left margin */
+}
+
+.contact .form-control {
+    width: 100%; /* Full width for input and textarea */
+    margin-bottom: 15px; /* Spacing between inputs */
+}
+
+button {
+    width: 100%; /* Make the button full-width */
+}
