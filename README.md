@@ -12,7 +12,7 @@
 This is a portfolio I developed to showcase my work thus far in the bootcamp. I built it using react and its my first single-page application that i made from scratch. The website has a few different pages including an about me, project portfolio, contact form, and a resume. The navbar is easily accessable from the header of the page. In the portfolio section I included links to the deployed project and the github repository. 
 
 # installation
-This project was built using vite and several other dev dependencies listed in the package.json file. Before running the application locally make sure to run npm install. Alternativley you can visit the website here at this link:
+This project was built using vite and several other dev dependencies listed in the package.json file. Before running the application locally make sure to run npm install. Alternativley you can visit the website here at this link: https://vermillion-bombolone-f31d8e.netlify.app/ 
 
 # usage
 To use the site, visit the link and navigate with the nav bar at the top. Everything should be pretty self explanitory
