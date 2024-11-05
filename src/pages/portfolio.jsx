@@ -7,7 +7,7 @@ export default function Portfolio() {
         {
             name: 'weather service',
             description: 'a weather service that provides weather information for a given location',
-            image: '../../images/weather.jpg',
+            image: '../../public/images/weather.jpg',
             link: 'https://week-9-challenge-4.onrender.com/',
             imageSource: 'https://unsplash.com/photos/silhouette-of-trees-during-daytime-QRBe3Ithczs?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash',
             gitHub: 'https://github.com/Riley6639/week-9-challenge'
@@ -15,7 +15,7 @@ export default function Portfolio() {
         {
             name: 'PlanIt',
             description: 'a to-do list application that allows users to create, set priorty, and delete tasks',
-            image: '../../images/planit.jpg',
+            image: '../../public/images/planit.jpg',
             link: 'https://riley6639.github.io/PlanIT/',
             imageSource: 'https://unsplash.com/photos/5M4v6fR3X4M?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash',
             gitHub: 'https://github.com/Riley6639/PlanIT'
@@ -23,7 +23,7 @@ export default function Portfolio() {
         {
             name: 'study guide',
             description: 'the first project I created in my coding bootcamp, a study guide for the coding bootcamp',
-            image: '../../images/study-guide.jpg',
+            image: '../../public/images/study-guide.jpg',
             link: 'https://riley6639.github.io/Prework-study-guide/',
             imageSource: 'https://unsplash.com/photos/5M4v6fR3X4M?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash',
             gitHub: 'https://github.com/Riley6639/Prework-study-guide'
@@ -31,7 +31,7 @@ export default function Portfolio() {
         {
             name: 'Bucket List',
             description: 'a bucket list application that allows users to add, delete, and mark items as completed',
-            image: '../../images/bucket-list.jpg',
+            image: '../../images/public/bucket-list.jpg',
             link: 'https://boisterous-panda-344a2c.netlify.app/',
             imageSource: 'https://unsplash.com/photos/5M4v6fR3X4M?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash',
             gitHub: 'https://github.com/Riley6639/week-12-miniproject'
